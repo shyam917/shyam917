@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm C P Ghanshyam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Aurdino**
 
 - 📫 How to reach me **amenu4cse20118@am.students.amrita.edu**
 
