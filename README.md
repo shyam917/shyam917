@@ -9,7 +9,7 @@
 <!-- DETAILS -->
 
 ```console
-shyam917 HRIDUL
+shyam917 
 
                     [~GHANSHYAM~]                   
               "[$$$$$$$$$$$$$$$$$$$$$$$$$$$$]"                 GHANSHYAM
