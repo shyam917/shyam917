@@ -164,14 +164,14 @@ shyam917
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
   <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/popos-10A0FF.svg?style=for-the-badge&logo=POPOS&logoColor=white" alt="postman"/>
+    <img src="https://img.shields.io/badge/manjaro os-34be5b.svg?style=for-the-badge&logo=manjaro&logoColor=white" alt="postman"/>
   </a>
   <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
       alt="virtualbox"/>
   </a>
   <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+    <img src="https://img.shields.io/badge/Linux-1793d1.svg?style=for-the-badge&logo=archlinux&logoColor=white" alt="ubuntu"/>
   </a>
 </p>
 
