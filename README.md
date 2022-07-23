@@ -11,13 +11,13 @@
 ```console
 shyam917 
 
-                    [~GHANSHYAM~]                   
+                      [~GHANSHYAM~]                   
               "[$$$$$$$$$$$$$$$$$$$$$$$$$$$$]"                 GHANSHYAM
            "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"              -------------------
         "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"           OS: GNU/Linux
       "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$"         Uptime: 20 years
     "$$$$$$$$$v^r_P0$$$$$$$$$$$$$$$$$$$$v^r_P0$$$$$$$$$"       Packages: Python, C++, Dart, ..
-   "0$$$$$$$$"            [~GHANSHYAM~]     "$$$$$$$$$$"      Shell: Bash
+   "0$$$$$$$$"          [~GHANSHYAM~]     "$$$$$$$$$$"      Shell: Bash
   "$$$$$$$$$$"                               "$$$$$$$$$$$"     Editors: VSCode, Code blocks
  "$$$$$$$$$$$"                               "$$$$$$$$$$$$"    Crontab: Coding, Reversing, Hardware, Forensics
 "$$$$$$$$$$$"                                 "$$$$$$$$$$$"    Home: Calicut, Kerala
